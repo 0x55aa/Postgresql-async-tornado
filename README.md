@@ -28,8 +28,8 @@ class MainHandler(tornado.web.RequestHandler):
 ```
 
 
-Contributors
-------------
+Thanks
+------
 [torndb](https://github.com/bdarnell/torndb)
 
 [momoko](https://github.com/FSX/momoko)
